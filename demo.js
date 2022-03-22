@@ -10,8 +10,8 @@ function test2(a = 1, b = 1) {
 
 }
 
-function test3(a = 1, b = 1) {
-  const result = a - b;
+function test4(a = 1, b = 1) {
+  const result = a / b;
   return result
 
 }
